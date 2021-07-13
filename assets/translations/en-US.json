@@ -1,0 +1,21 @@
+{
+  "scanner": "Scanner",
+  "scan_instruction": "Point your camera at the QR-code",
+  "settings": "Settings",
+  "remove_adds": "Remove ADs",
+  "url": "URL",
+  "text": "Text",
+  "contact": "Contact",
+  "barcode": "Barcode",
+  "share": "Share",
+  "copy": "Copy",
+  "show_all": "Show",
+  "sound": "Sound",
+  "vibration": "Vibration",
+  "auto_copy": "Autocopy to clipboard",
+  "auto_open": "Open link automatically",
+  "report": "Report a bug",
+  "main_app_title": "Our main app",
+  "main_app_secondary": "Goods reviews, barcode scanning\nand much more",
+  "code_copied": "Code copied to clipboard: {}"
+}
