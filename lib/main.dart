@@ -1,4 +1,3 @@
-// @dart=2.9
 import 'package:qrscanner/widgets/qr_scanner_page.dart';
 
 import 'consts.dart';

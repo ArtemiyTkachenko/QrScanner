@@ -1,4 +1,4 @@
-int? reverseOrder(dynamic k1, dynamic k2) {
+int reverseOrder(dynamic k1, dynamic k2) {
   if (k1 is int) {
     if (k2 is int) {
       if (k1 > k2) {
@@ -12,4 +12,5 @@ int? reverseOrder(dynamic k1, dynamic k2) {
       return -1;
     }
   }
+  return -1;
 }
