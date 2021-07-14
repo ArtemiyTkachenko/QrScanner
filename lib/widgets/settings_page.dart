@@ -62,21 +62,6 @@ class _SettingsPageState extends State<SettingsPage> {
             SettingsSwitch(LocaleKeys.vibration, settingsVibration, vibration),
             SettingsSwitch(LocaleKeys.auto_copy, settingsCopy, autoCopy),
             SettingsSwitch(LocaleKeys.auto_open, settingsAutoOpen, autoOpen),
-            Padding(
-              padding: const EdgeInsets.fromLTRB(0.0, 16.0, 48.0, 0.0),
-              child: Expanded(
-                child: Align(
-                  alignment: Alignment.bottomRight,
-                    child: Text(
-                      "Version: " + appVersion,
-                      style: TextStyle(
-                          fontSize: size14,
-                          fontWeight: FontWeight.w500,
-                          color: primaryTextColor),
-                    ),
-                ),
-              ),
-            ),
           ],
         ),
       ),
